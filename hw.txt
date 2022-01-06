@@ -3,7 +3,7 @@
 ***3. C++ Program to Find Factorial of a given number.
 4. C++ Program to Find GCD of two integers.
 5. C++ Program to Find LCM of two integers.
-6. C++ Program to Generate Multiplication Table of a given number.
+***6. C++ Program to Generate Multiplication Table of a given number.
 7. C++ Program to Find All Roots of a Quadratic Equation.
 10. C++ Program to Find Largest Number Among Three Numbers.
 11. C++ Program to Check Whether a character is Vowel or Consonant.
